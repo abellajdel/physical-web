@@ -11,7 +11,7 @@ The Physical Web extends the  web we know into the physical world around us. Thi
 Even though this is a fairly simple idea, it immediately generates lots of questions:
 
 ##1. What's wrong with native apps?
-Nothing! Native apps are great but they're just not mathematically practical. If we believe in Moore's Law at all, there will be 1000s of these smart devices very soon and the native app approach breaks down. Are you really going to download an app when you pass a vending machine? Yahoo used to be a fixed hierarchy of links and finally just had give it up once the web exploded. The same thing will happen with smart hardware and apps.
+Nothing! Native apps are great but they're just not mathematically practical. If we believe in Moore's Law at all, there will be 1000s of these smart devices in each of our lives and the native app approach just breaks down. Are you really going to download an app when you pass a vending machine? Yahoo used to be a fixed hierarchy of links for the web and finally just had give it up once the web exploded. The same thing will happen with smart hardware and apps.
 
 **When you're experiencing exponential growth, you need a system that grows automatically.** 
 
@@ -39,7 +39,7 @@ This is meant to be an extension of the web so it should work on every platform.
 At this point, we have an android application and an AppEngine Server app that is open source. We hope this will be used and ported to other platforms.
 
 ##8. Can't the user be tracked?
-Our current URL broadcast method involves a bluetooth broadcast from each device. The user's phone gathers this info without contacting the device so the user is invisible to the device. This means a user can't be tracked simply by walking past a broadcasting device. This was very much by design to keep users silent passage untrackable. However, once the user does click on a URL, they are then known to that website. 
+Our current URL broadcast method involves a bluetooth broadcast from each device. The user's phone gathers this info without contacting the device so the user is invisible to each one. This means a user can't be tracked simply by walking past a broadcasting device. This was very much by design to keep users silent passage untrackable. However, once the user does click on a URL, they are then known to that website. 
 
 The search agent on the phone may keep track of which devices the user taps on so they can improve the ranking in the future. Of course, this too needs to be discussed and the possibly offered to the user as an option so they are in control of how this information is stored.
 
