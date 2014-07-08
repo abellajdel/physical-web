@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="header_color">#00c</color>
+    <color name="url_color">#0a0</color>
+    <color name="description_color">#777</color>
+</resources>
