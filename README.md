@@ -18,3 +18,5 @@ Things are best when completely open. We'd like to document how this can work bu
 
 ##Start here
 The best place to start is with the [Introduction](http://github.com/scottjenson/physical-web/blob/master/introduction.md) document
+
+If you'd like to just try it hacking with it, check out the [getting started guide](http://github.com/scottjenson/physical-web/blob/master/getting_started.md)
