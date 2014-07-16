@@ -8,10 +8,10 @@ The trickier thing is to get a beacon broadcasting your URL. So many BLE devices
 
 This will allow you to change the NAME parameter in the ad packet with:
 
-void setup() {
-  RFduinoBLE.deviceName = "cnn.com";
-  RFduinoBLE.begin();
-}
+    void setup() {
+      RFduinoBLE.deviceName = "cnn.com";
+      RFduinoBLE.begin();
+    }
 
 Once this is up and running, the Physical Web android app should see it.
 
