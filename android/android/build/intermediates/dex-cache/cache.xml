@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/Users/abellajdel/Desktop/physical-web-master/android/PhysicalWeb/build/intermediates/pre-dexed/debug/classes-415182d9fc964ca669d776d3a27170c12919193b.jar"
+        jar="/Users/abellajdel/Desktop/physical-web-master/android/PhysicalWeb/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="8f11f56e350eacabf2273f646d981356eea0ed77"/>
+    <item
+        dex="/Users/abellajdel/Desktop/physical-web-master/android/PhysicalWeb/build/intermediates/pre-dexed/debug/classes-c5d54d888fa80fbdb20ba26ed1e66fa2c12be6d6.jar"
+        jar="/Users/abellajdel/Desktop/physical-web-master/android/PhysicalWeb/build/intermediates/exploded-aar/com.mcxiaoke.volley/library-aar/1.0.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e40b9a81989bd4a846018551c280f8c4d837bf2e"/>
+    <item
+        dex="/Users/abellajdel/Desktop/physical-web-master/android/PhysicalWeb/build/intermediates/pre-dexed/debug/support-v4-18.0.0-e78b0d82a0bd05aa44c5a770ad537b2ccbe21d9d.jar"
+        jar="/Users/abellajdel/lab/android_sdk/sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156"/>
+
+</pre-dex-items>
